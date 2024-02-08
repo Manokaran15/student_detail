@@ -1,0 +1,27 @@
+@import './breakpoints.css';
+
+.body {
+    background-color: #b4a686e6;
+    height: 100vh;
+}
+/* Start Login Blade */
+.login {
+    background-size: 100% 100%;
+    height: 100vh;
+    background-color: #b4a686e6;
+}
+/* End Login Blade */
+/* Start Forgot Password Blade */
+.forgot_password {
+    background-size: 100% 100%;
+    background-color: #b4a686e6;
+    height: 100vh;
+}
+/* End Forgot Password Blade */
+/* Start Register Blade */
+.register {
+    background-size: 100% 100%;
+    background-color: #b4a686e6;
+    height: 100vh;
+}
+/* End Register Blade */
